@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "angular": "^1.8.2"
+  },
+  "scripts": {
+    "prestart": "npm install"
+  }
+}
