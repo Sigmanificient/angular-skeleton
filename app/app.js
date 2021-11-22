@@ -1,3 +1,5 @@
 'use strict';
 
-const beerApi = angular.module('angularSkeleton', []);
+const beerApi = angular.module('angularSkeleton', [
+    'hw'
+]);
